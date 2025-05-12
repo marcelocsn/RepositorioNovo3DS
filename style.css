@@ -100,3 +100,8 @@ section {
 .home-img img, .about-img img {
     width: 100%;
 }
+
+.about {
+    background-color: var(--bg-color-02);
+}
+
